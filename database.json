@@ -1,0 +1,94 @@
+{
+    "categories": [
+        {
+            "id": "renovaciones",
+            "title": "Renovaciones",
+            "description": "Licencias de conducir, registros vehiculares y marbetes",
+            "icon": "🚗",
+            "color": "blue",
+            "topics": [
+                "Prueb"
+            ]
+        },
+        {
+            "id": "documentacion",
+            "title": "Documentación",
+            "description": "Requisitos, formularios y documentos necesarios",
+            "icon": "📋",
+            "color": "green",
+            "topics": [
+                "Guía para Declarar Vehículos como Chatarra en Puerto Rico",
+                "Requisitos para poder procesar un trámite express"
+            ]
+        },
+        {
+            "id": "costos",
+            "title": "Costos y Tarifas",
+            "description": "Precios de servicios y métodos de pago",
+            "icon": "💰",
+            "color": "yellow",
+            "topics": []
+        },
+        {
+            "id": "horarios",
+            "title": "Horarios y Ubicaciones",
+            "description": "Centros CESCO y horarios de servicio",
+            "icon": "⏰",
+            "color": "purple",
+            "topics": []
+        },
+        {
+            "id": "especiales",
+            "title": "Trámites Especiales",
+            "description": "Duplicados, cambios de dirección y casos especiales",
+            "icon": "🎯",
+            "color": "red",
+            "topics": []
+        },
+        {
+            "id": "faq",
+            "title": "Preguntas Frecuentes",
+            "description": "Respuestas a las consultas más comunes",
+            "icon": "❓",
+            "color": "indigo",
+            "topics": [
+                "Servicios que ofrecemos en cescoonline.com"
+            ]
+        }
+    ],
+    "topics": [
+        {
+            "timestamp": "2025-09-24T20:48:04.163Z",
+            "title": "Servicios que ofrecemos en cescoonline.com",
+            "content": "Licencias y Certificaciones\n\nEnvío por e-mail de Licencia de Vehículos - $25.00\nEnvío por e-mail de Certificación de Multas - $9.99\nEvaluación Médica para Conductores - $25.00\nCambio de Dirección - $25.00\n\nCitas y Turnos\n\nCoordinación de cita para examen de Licencia de Aprendizaje - $19.99\nCoordinación de cita para recoger Licencia de Aprendizaje - $19.99\nCoordinación de turno para recibir llamada de AutoExpreso - $9.99\n\nMultas y Planes de Pago\n\nGestión de Plan de Pago (electrónico) - $49.90\nGestión de Plan de Pago (por libreta enviada por correo) - $59.90",
+            "id": "servicios-que-ofrecemos-en-cescoonlinecom",
+            "categoryId": "faq",
+            "files": []
+        },
+        {
+            "timestamp": "2025-09-24T20:49:09.015Z",
+            "title": "Guía para Declarar Vehículos como Chatarra en Puerto Rico",
+            "content": "<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>¿Qué es?<\/b><\/h2><p><\/p>\n<p class=\"p2\"><span class=\"s2\">Es un <\/span><b>documento legal<\/b><span class=\"s2\"> que permite a propietarios de vehículos <\/span><b>inoperables o con daños significativos<\/b><span class=\"s2\"> gestionar su <\/span><b>disposición final<\/b><span class=\"s2\"> de forma <\/span><b>legal<\/b><span class=\"s2\"> a través del <\/span><b>Centro de Servicios al Conductor (CESCO)<\/b><span class=\"s2\"> en Puerto Rico.<\/span><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><hr><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>Requisitos<\/b><\/h2><p><\/p>\n<p class=\"p2\"><b style=\"color: rgb(55, 65, 81); font-size: 1.25rem;\"><br>1) Documentación requerida<\/b><\/p><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\"><b>Tablilla del vehículo<\/b><b><\/b><\/p>\n<\/li><li>\n<p class=\"p1\"><b>Licencia de conducir vigente<\/b><b><\/b><\/p>\n<\/li><li>\n<p class=\"p1\"><b>Título del vehículo<\/b><\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p2\"><b style=\"color: rgb(55, 65, 81); font-size: 1.25rem;\"><br>2) Formulario oficial<\/b><\/p><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\">Completar el <span class=\"s1\"><b>DTOP-927<\/b><b><\/b><\/span><\/p>\n<p class=\"p1\"><i>(Disponible en oficinas del Departamento de Transportación y Obras Públicas — DTOP).<\/i><\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p2\"><b style=\"color: rgb(55, 65, 81); font-size: 1.25rem;\"><br>3) Procedimiento especial (si<span class=\"Apple-converted-space\"> <\/span><\/b><b style=\"color: rgb(55, 65, 81); font-size: 1.25rem;\">no <\/b><b style=\"color: rgb(55, 65, 81); font-size: 1.25rem;\">posee la tablilla)<\/b><\/p><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\">Realizar una <span class=\"s1\"><b>Declaración Jurada<\/b><\/span> formal.<\/p>\n<\/li><li>\n<p class=\"p1\"><b>Presentar una querella<\/b><span class=\"s1\"> por la tablilla ante la <\/span><b>Policía de Puerto Rico<\/b><span class=\"s1\">.<\/span><\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p2\"><br><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h3><b>4) Programación de cita<\/b><\/h3><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\"><span class=\"s1\"><b>Solicitar una cita<\/b><\/span> en CESCO para completar el trámite oficial.<\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><hr><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>Áreas de servicio disponibles<\/b><\/h2><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\">Bayamón<\/p>\n<\/li><li>\n<p class=\"p1\">Caguas<\/p>\n<\/li><li>\n<p class=\"p1\">Carolina<\/p>\n<\/li><li>\n<p class=\"p1\">Cataño<\/p>\n<\/li><li>\n<p class=\"p1\">Cidra<\/p>\n<\/li><li>\n<p class=\"p1\">San Juan<\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><hr><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>Oferta especial de asistencia legal<\/b><\/h2><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\"><b>Costo:<\/b><span class=\"s1\"> $50<\/span><\/p>\n<\/li><li>\n<p class=\"p1\"><b>Validez:<\/b><span class=\"s1\"> Hasta el <\/span><b>31 de mayo<\/b><b><\/b><\/p>\n<\/li><li>\n<p class=\"p1\"><b>Disponibilidad:<\/b><span class=\"s1\"> <\/span><b>Cupos limitados<\/b><\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><hr><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>Información de contacto<\/b><\/h2><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\"><span class=\"s1\"><b>Teléfono:<\/b><\/span> 939.460.3880<\/p>\n<\/li><li>\n<p class=\"p1\"><span class=\"s1\"><b>Sitio web:<\/b><\/span> www.thelegalprojectpr.com<\/p>\n<\/li><li>\n<p class=\"p1\"><b>Redes sociales:<\/b><span class=\"s1\"> <\/span><b>@thelegalprojectpr<\/b><\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><hr><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>Beneficios de usar servicios profesionales<\/b><\/h2><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\">Asesoramiento legal especializado<\/p>\n<\/li><li>\n<p class=\"p1\">Acompañamiento durante todo el proceso<\/p>\n<\/li><li>\n<p class=\"p1\">Verificación de la documentación requerida<\/p>\n<\/li><li>\n<p class=\"p1\">Coordinación de citas con CESCO<\/p>\n<\/li><li>\n<p class=\"p1\">Resolución de situaciones especiales (p. ej., <span class=\"s1\"><b>pérdida de tablilla<\/b><\/span>)<\/p>\n<\/li><\/ul><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><hr><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>Proceso paso a paso<\/b><\/h2><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ol start=\"1\"><li>\n<p class=\"p1\"><span class=\"s1\"><b>Reúna<\/b><\/span> la documentación (tablilla, licencia, título).<\/p>\n<\/li><li>\n<p class=\"p1\"><span class=\"s1\"><b>Complete<\/b><\/span> el formulario <span class=\"s1\"><b>DTOP-927<\/b><\/span>.<\/p>\n<\/li><li>\n<p class=\"p1\"><b>Si aplica:<\/b><span class=\"s1\"> presente <\/span><b>querella por tablilla perdida<\/b><span class=\"s1\"> en la Policía.<\/span><\/p>\n<\/li><li>\n<p class=\"p1\"><b>Solicite<\/b><span class=\"s1\"> su <\/span><b>cita<\/b><span class=\"s1\"> en <\/span><b>CESCO<\/b><span class=\"s1\">.<\/span><\/p>\n<\/li><li>\n<p class=\"p1\"><b>Asista<\/b><span class=\"s1\"> a la cita con <\/span><b>todos los documentos<\/b><span class=\"s1\">.<\/span><\/p>\n<\/li><li>\n<p class=\"p1\"><b>Complete<\/b><span class=\"s1\"> el proceso de <\/span><b>declaración como chatarra<\/b><span class=\"s1\">.<\/span><\/p>\n<\/li><\/ol><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><hr><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><h2><b>Consideraciones importantes<\/b><\/h2><p><\/p>\n<p class=\"p1\"><span class=\"s1\"><\/span><\/p><ul><li>\n<p class=\"p1\">Verifique tener <span class=\"s1\"><b>todos los documentos<\/b><\/span> antes de solicitar la cita.<\/p>\n<\/li><li>\n<p class=\"p1\">El proceso puede <span class=\"s1\"><b>variar según las circunstancias<\/b><\/span> de cada vehículo.<\/p>\n<\/li><li>\n<p class=\"p1\">La <span class=\"s1\"><b>asistencia legal profesional<\/b><\/span> puede <span class=\"s1\"><b>agilizar<\/b><\/span> significativamente el trámite.<\/p>\n<\/li><li>\n<p class=\"p1\">Los <span class=\"s1\"><b>cupos<\/b><\/span> de la oferta especial son <span class=\"s1\"><b>limitados<\/b><\/span>.<\/p>\n<\/li><\/ul><p><\/p>",
+            "id": "gua-para-declarar-vehculos-como-chatarra-en-puerto-rico",
+            "categoryId": "documentacion",
+            "files": []
+        },
+        {
+            "timestamp": "2025-09-24T20:52:44.271Z",
+            "title": "Requisitos para poder procesar un trámite express",
+            "content": "A continuación descargar el archivo para poder visualizar los requisitos.",
+            "id": "requisitos-para-poder-procesar-un-trmite-express",
+            "categoryId": "documentacion",
+            "files": [
+                {
+                    "original_name": "Requisitos para poder procesar un trámite express (3).pdf",
+                    "file_name": "68d45a1c37ab8_1758747164.pdf",
+                    "file_path": "uploads\/68d45a1c37ab8_1758747164.pdf",
+                    "file_size": 143366,
+                    "file_type": "pdf",
+                    "upload_date": "2025-09-24 20:52:44"
+                }
+            ]
+        }
+    ]
+}
